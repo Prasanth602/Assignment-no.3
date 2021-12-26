@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    position: relative; 
+}
+.block{
+    width: 250px;
+    height: 250px;
+    font-size: 2rem;
+    text-align: center;
+    color: #fff;
+}
+.block-1{
+    background-color: red;
+    position: absolute;
+    left: 600px;
+}
+.block-2{
+    background-color: green;
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
+.block-3{
+    background-color: black;
+    position: absolute;
+    top: 250px;
+    left: 600px;
+}
+.block-4{
+    background-color: blue;
+    position: absolute;
+    top: 250px;
+    left: 850px;
+}
+.block-5{
+    background-color: yellow;
+    position: absolute;
+    top: 500px;
+    left: 600px;
+}
